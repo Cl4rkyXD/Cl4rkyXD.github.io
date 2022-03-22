@@ -1,9 +1,7 @@
-<html>
 <head>
 <body>
 
 <h1>Welcome to Clarky's website</h1>
-</head>
 <h3>Here you can view and download all my projects</h3>
 <hr>
 <h2>See my porfolio below:</h2>
@@ -17,4 +15,5 @@
 <a href="https://replit.com/@Cl4rky">Replit</a>
 
 </body>
-</html>
+</head>
+ 
