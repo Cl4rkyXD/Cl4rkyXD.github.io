@@ -7,3 +7,6 @@
 
 <h2>Links to my ongoing and finished projects</h2>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Overview of a unreleased project</a>
+
+<h2>Links to my other platforms</h2>
+<a ghyt="https://replit.com/@Cl4rky">Replit</a>
