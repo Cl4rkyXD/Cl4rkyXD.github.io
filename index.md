@@ -6,4 +6,4 @@
 <em>There is nothing</em>
 
 <h2>Links to my ongoing and finished projects</h2>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">overview of a unreleased project</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Overview of a unreleased project</a>
