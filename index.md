@@ -1,10 +1,7 @@
 <html>
 <head>
 <body>
-<style>
-body {
-  font-family: 'Courier New', monospace;
-}  
+
 <h1>Welcome to Clarky's website</h1>
 </head>
 <h3>Here you can view and download all my projects</h3>
@@ -18,6 +15,6 @@ body {
 
 <h2>Links to my other platforms</h2>
 <a href="https://replit.com/@Cl4rky">Replit</a>
+
 </body>
-</style>
 </html>
